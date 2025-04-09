@@ -1,0 +1,6 @@
+# FastAPI is the main framework we'll use to build the API
+fastapi
+
+# Uvicorn is the server used to run FastAPI apps
+# The [standard] includes extras like automatic reloading
+uvicorn[standard]
